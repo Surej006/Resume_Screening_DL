@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.12.0
+numpy==1.23.5
+pandas
+scikit-learn
+matplotlib
+seaborn
+pypdf
