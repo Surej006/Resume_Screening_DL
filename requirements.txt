@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 seaborn
 pypdf
+protobuf==3.20.3
